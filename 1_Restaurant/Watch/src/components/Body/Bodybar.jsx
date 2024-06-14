@@ -2,9 +2,9 @@ import React from 'react'
 
 const Bodybar = () => {
   return (
-    <>
-    <div>Bodybar</div>
-    </>
+ <>
+   <div className='container  relative z-1 bg-black '>Body Selection</div>
+ </>
   )
 }
 
