@@ -75,7 +75,7 @@ const Navbar = () => {
                     return <li className='flex cursor-pointer hover:text-[#fc8019] items-center gap-2'>
                               {link.icon}
                                {link.name}
-                               <sup>{link.sup}</sup>
+                               <sup className='text-[#fc8019]'>{link.sup}</sup>
                                </li>
                
                   }
