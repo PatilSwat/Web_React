@@ -62,7 +62,7 @@ const Navbar = () => {
     </div>
         <navbar>
         <div className='p-[15px] shadow-xl'>
-          <div className='max-w-[1200px] mx-auto border border-red-500 flex items-center'>
+          <div className='max-w-[1200px] mx-auto  flex items-center'>
              <div className='conatiner w-[100px]'>
                   <img  src="../src/assets/swiggy-Logo.png" alt="img1" className='w-full '/>
 

@@ -22,10 +22,10 @@ const Nav = () => {
   return (
     <>
      <div className='conatainer flex shadow-sm : border-x-slate-600 p-4 '> 
-       <div className="font-bold  container flex bg-green-400 justify-between gap-5"> RS</div>
+       <div className="font-bold  container   flex  justify-between gap-4"> RS</div>
      
-      <div className="container flex justify-around" >
-        <ul className="container flex justify-around gap-4">
+      <div className="container flex justify-around " >
+        <ul className="container flex justify-around  gap-4">
           <ul>Home</ul>
           <ul>About</ul>
           <ul>Category</ul>
