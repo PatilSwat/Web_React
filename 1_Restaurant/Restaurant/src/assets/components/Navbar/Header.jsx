@@ -11,7 +11,7 @@ const Header = () => {
                 <div className=' flex w-[30px] m-2 h-[30px] justify-center items-center bg-[#e2e2e7] rounded-full '><FaArrowLeft /></div>
                 <div className=' flex w-[30px] m-2 h-[30px] justify-center items-center bg-[#e2e2e7] rounded-full'><FaArrowRight /></div>
               </div>
-              <div  >
+              <div>
                 <img className='h-20px w-10px flex rounded-full bg-white-600' src='../src/assets/food4.png' alt='imgae2'/>
 
               </div>
